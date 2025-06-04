@@ -855,7 +855,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 }
 
 .mat-ripple-element {
-    background-color: rgba(0, 129, 68, .1)
+    background-color: rgba(0, 26, 129, 0.1)
 }
 
 .mat-option {
@@ -1437,7 +1437,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .mat-mini-fab.mat-accent.mat-button-disabled,
 .mat-mini-fab.mat-warn.mat-button-disabled,
 .mat-mini-fab.mat-button-disabled.mat-button-disabled {
-    background-color: #172554
+    background-color: #2236774c
 }
 
 .mat-flat-button.mat-primary .mat-ripple-element,
@@ -1783,7 +1783,7 @@ td.mat-footer-cell {
 }
 
 .mat-calendar-body-in-preview {
-    color: rgba(0, 129, 68, .24)
+    color: rgba(0, 0, 129, 0.24)
 }
 
 .mat-calendar-body-today:not(.mat-calendar-body-selected):not(.mat-calendar-body-comparison-identical) {
@@ -1791,7 +1791,7 @@ td.mat-footer-cell {
 }
 
 .mat-calendar-body-disabled>.mat-calendar-body-today:not(.mat-calendar-body-selected):not(.mat-calendar-body-comparison-identical) {
-    border-color: rgba(0, 129, 68, .18)
+    border-color: rgba(0, 13, 129, 0.18)
 }
 
 .mat-calendar-body-in-range::before {
@@ -1917,12 +1917,12 @@ td.mat-footer-cell {
 
 .mat-datepicker-content.mat-warn .mat-calendar-body-in-range>.mat-calendar-body-comparison-identical,
 .mat-datepicker-content.mat-warn .mat-calendar-body-in-comparison-range.mat-calendar-body-in-range::after {
-    background: #a8dab5
+    background: #b2a8da
 }
 
 .mat-datepicker-content.mat-warn .mat-calendar-body-comparison-identical.mat-calendar-body-selected,
 .mat-datepicker-content.mat-warn .mat-calendar-body-in-comparison-range>.mat-calendar-body-selected {
-    background: #46a35e
+    background: #4654a3
 }
 
 .mat-datepicker-content.mat-warn .mat-calendar-body-selected {
@@ -2180,7 +2180,7 @@ td.mat-footer-cell {
 }
 
 .mat-form-field-appearance-outline.mat-form-field-disabled .mat-form-field-outline {
-    color: rgba(0, 129, 68, .06)
+    color: rgba(0, 9, 129, 0.06)
 }
 
 .mat-icon.mat-primary {
@@ -2669,16 +2669,16 @@ td.mat-footer-cell {
 }
 
 .mat-slider-has-ticks .mat-slider-wrapper::after {
-    border-color: rgba(0, 129, 68, .7)
+    border-color: rgba(0, 0, 129, 0.7)
 }
 
 .mat-slider-horizontal .mat-slider-ticks {
-    background-image: repeating-linear-gradient(to right, rgba(0, 129, 68, 0.7), rgba(0, 129, 68, 0.7) 2px, transparent 0, transparent);
-    background-image: -moz-repeating-linear-gradient(0.0001deg, rgba(0, 129, 68, 0.7), rgba(0, 129, 68, 0.7) 2px, transparent 0, transparent)
+    background-image: repeating-linear-gradient(to right, rgba(0, 22, 129, 0.7), rgba(13, 0, 129, 0.7) 2px, transparent 0, transparent);
+    background-image: -moz-repeating-linear-gradient(0.0001deg, rgba(0, 2, 129, 0.7), rgba(15, 0, 129, 0.7)2px, transparent 0, transparent)
 }
 
 .mat-slider-vertical .mat-slider-ticks {
-    background-image: repeating-linear-gradient(to bottom, rgba(0, 129, 68, 0.7), rgba(0, 129, 68, 0.7) 2px, transparent 0, transparent)
+    background-image: repeating-linear-gradient(to bottom, rgba(0, 28, 129, 0.7), rgba(0, 11, 129, 0.7) 2px, transparent 0, transparent)
 }
 
 .mat-step-header.cdk-keyboard-focused,
