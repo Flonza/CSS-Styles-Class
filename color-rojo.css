@@ -1397,7 +1397,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .mat-mini-fab.mat-accent.mat-button-disabled,
 .mat-mini-fab.mat-warn.mat-button-disabled,
 .mat-mini-fab.mat-button-disabled.mat-button-disabled {
-    color: rgba(129, 0, 0, 0.26)
+    color: rgba(112, 2, 2, 0.534)
 }
 
 .mat-flat-button.mat-primary,
@@ -1437,7 +1437,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .mat-mini-fab.mat-accent.mat-button-disabled,
 .mat-mini-fab.mat-warn.mat-button-disabled,
 .mat-mini-fab.mat-button-disabled.mat-button-disabled {
-    background-color: #541717
+    background-color: #ff424241
 }
 
 .mat-flat-button.mat-primary .mat-ripple-element,
